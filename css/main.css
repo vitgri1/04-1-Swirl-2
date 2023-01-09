@@ -13,21 +13,57 @@ body{
 .container{
     display: inline-block;
     width: 800px;
+    height:600px;
     margin-left: calc(50% - 400px);
     margin-top: 150px;
     background-color: #34495D;
     text-align: center;
+    line-height: 1em;
 }
 
 .main-title{
     font-size: 100px;
     margin-top: 250px;
-    line-height: 1em;
     word-spacing: -25px;
-    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .title-img{
-    height: 90px;
-    margin-bottom: -10px;
+    height: 100px;
+}
+
+.second-title{
+    color: #667787;
+    font-size: 20px;
+    margin-bottom: 0.5em;
+}
+
+.description{
+    color: #667787;
+    font-size: 12px;
+    margin-bottom: 100px;
+}
+
+.button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home{
+    width: 160px;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.home-img{
+    margin-top: 50px;
+    height: 20px;
+    width: 100%;
+    object-fit: contain;
+
 }
