@@ -19,6 +19,10 @@ body{
     background-color: #34495D;
     text-align: center;
     line-height: 1em;
+    background-image: url(../img/Center.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
 }
 
 .main-title{
@@ -66,4 +70,28 @@ body{
     width: 100%;
     object-fit: contain;
 
+}
+
+.fixed-img-1{
+    position: absolute;
+    top: 45px;
+    right: 280px;
+    height: 40px;
+    width: 40px;
+}
+
+.fixed-img-2{
+    position: absolute;
+    top: 160px;
+    left: 350px;
+    height: 25px;
+    width: 25px;
+}
+
+.fixed-img-3{
+    position: absolute;
+    top: 350px;
+    right: 180px;
+    height: 25px;
+    width: 25px;
 }
