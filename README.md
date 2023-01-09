@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Name
+# Swirl
 
 _website design project_
 
@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://vitgri1.github.io/04-1-Swirl-2/
 
-Design: [Name](https://inspirationde.com/wp-content/uploads/2015/07/dribbble-error-by-olia-gozha-1435762503gnk84-770x529.png)
+Design: [Swirl](https://inspirationde.com/wp-content/uploads/2015/07/dribbble-error-by-olia-gozha-1435762503gnk84-770x529.png)
 
 ## 🎯 Project features/goals
 
