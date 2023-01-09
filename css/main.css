@@ -8,3 +8,10 @@ padding: 0;
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.container{
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    margin-top: 150px;
+    background-color: #34495D;
+}
